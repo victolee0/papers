@@ -9,7 +9,7 @@ from torch.autograd import Function
 def Gdense(in_features, out_features):
     return nn.Sequential(
         nn.Linear(in_features, out_features),
-        nn.ReLU()
+        nn.ReLU6()
     )
 
 def Ddense(in_features, out_features):
