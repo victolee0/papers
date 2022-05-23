@@ -1,5 +1,5 @@
 # papers
-개인 공부 & 정리를 위한 repository입니다.
+개인 공부 & 정리를 위한 repository입니다.  
 잘못된 내용에 대한 지적이나, 질문이 있는 경우 해당 항목의 Issue에 남겨주세요. 
 
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://github.com/victolee0/papers/issues/1) [[PDF]](https://arxiv.org/abs/1505.04597) [[code]](https://github.com/victolee0/papers/blob/main/code/unet.py)
